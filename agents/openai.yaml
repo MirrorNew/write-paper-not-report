@@ -1,0 +1,7 @@
+interface:
+  display_name: "Write Paper, Not Report"
+  short_description: "把论文写成围绕最强贡献、关键证据与学术价值的正式投稿叙事"
+  default_prompt: "先使用 $write-paper-not-report，把这些材料写成由主张与证据驱动的论文，而不是工作汇报。"
+
+policy:
+  allow_implicit_invocation: true
